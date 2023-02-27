@@ -29,8 +29,8 @@ This repository holds 10 different projects made through Open-Cv. Projects inclu
 
 (add your info here)
 
-- Instagram - [@jamesqquick](https://twitter.com/jamesqquick)
-- Linked In - [James Q Quick](https://jamesqquick.com)
+- Instagram - 
+- Linked In -
 - Email 
 
 [Back To The Top](#read-me-template)
